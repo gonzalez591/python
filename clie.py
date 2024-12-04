@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-lo = input("dime la ip de la maquina victima ")
+lo = input("dime la ip del servidor ")
 j = int(input("dime el puerto "))
 hy = input("dime la interfaz ")
 

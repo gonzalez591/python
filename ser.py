@@ -3,7 +3,7 @@ import socket
 
 
 
-l = input("dime la ip de la maquina vitima ")
+l = input("dime la ip del servidor  ")
 k = int(input("dime el puerto "))
 
 ip = (l,k)
